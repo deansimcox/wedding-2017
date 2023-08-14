@@ -1,4 +1,5 @@
-# vue-wed
+# Wedding 2017
+Made with Vue version 2.
 
 ## Project setup
 ```
